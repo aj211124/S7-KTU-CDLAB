@@ -1,6 +1,6 @@
 # S7
 
-## Compiler Design Lab
+## Compiler Design Lab (C-language)
 
 #### Reference - [2016 CSE KTU Syllabus](https://drive.google.com/file/d/198_XJggY6Yvm64ZwzG_pRIb45otiJuQG/view)
 
